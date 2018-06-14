@@ -1,0 +1,15 @@
+.row{
+    display: flex;
+    padding: 16px;
+    border-bottom: 1px solid #a1adb9;
+}
+
+.row .key{
+    flex: 1;
+    color: gray;
+}
+
+.row .value{
+    flex: 1;
+    font-weight: bold;
+}
